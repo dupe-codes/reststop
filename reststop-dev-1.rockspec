@@ -1,11 +1,11 @@
 package = "reststop"
 version = "dev-1"
 source = {
-    url = "git+ssh://git@github.com/dupe-codes/dotfiles-redux.git",
+    url = "git+ssh://git@github.com/dupe-codes/reststop.git",
 }
 description = {
-    summary = "a command line utility for interacting with REST apis",
-    detailed = "a command line utility for interacting with REST apis",
+    summary = "utility for scheduled breaks",
+    detailed = "utility for scheduled breaks",
 }
 dependencies = {
     "lua ~> 5.4",
